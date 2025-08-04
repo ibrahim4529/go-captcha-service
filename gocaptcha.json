@@ -18,7 +18,7 @@
     "click_config_maps": {
       "click-default-ch": {
         "version": "0.0.1",
-        "language": "chinese",
+        "language": "english",
         "master": {
           "image_size": {
             "width": 300,
